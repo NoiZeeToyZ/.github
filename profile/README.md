@@ -45,9 +45,10 @@ Each one is its own plugin, free and open source under GPL-3.0. Click a module t
 <tr>
 <td align="center" valign="top" width="25%"><a href="https://github.com/NoiZeeToyZ/SynTHBloK-MTX8"><img src="img/Matrix8.jpg" height="150" alt="MTX-8"><br><b>MTX-8</b></a><br><sub>8x8 groovebox with 8 synth voices, in key, random grooves</sub></td>
 <td align="center" valign="top" width="25%"><a href="https://github.com/NoiZeeToyZ/SynTHBloK-Pulse"><img src="img/Pulse.jpg" height="150" alt="PULSE"><br><b>PULSE</b></a><br><sub>Triggerable LFO / VCA voice: sub kicks, flutter bass, pads, slow modulation</sub></td>
+<td align="center" valign="top" width="25%"><a href="https://github.com/NoiZeeToyZ/SynTHBloK-MTX1"><img src="img/Jam.jpg" height="150" alt="MTX-1"><br><b>MTX-1</b></a><br><sub>8x8 trigger sequencer + touch-strip CV for the Maschine JAM</sub></td>
 </tr>
 </table>
 
 ## SynTHBloK MTX
 
-The rest of the MTX family (MTX FORGE, DUO and DRUM grooveboxes for the Maschine JAM, a song composer, the RANDROYD track generator and BACKDROP) is a paid plugin; MTX-8 and PULSE above are free. More news at [liquidnick.com](https://www.liquidnick.com).
+The rest of the MTX family (MTX FORGE, DUO and DRUM grooveboxes for the Maschine JAM, a song composer, the RANDROYD track generator and BACKDROP) is a paid plugin; MTX-1, MTX-8 and PULSE above are free. More news at [liquidnick.com](https://www.liquidnick.com).
