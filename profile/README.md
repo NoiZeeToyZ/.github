@@ -42,8 +42,11 @@ Each one is its own plugin, free and open source under GPL-3.0. Click a module t
 <td align="center" valign="top" width="25%"><a href="https://github.com/NoiZeeToyZ/SynTHBloK-JamProbe"><img src="img/JamProbe.jpg" height="150" alt="JAM Probe"><br><b>JAM Probe</b></a><br><sub>MIDI monitor and test sender for mapping controllers</sub></td>
 <td align="center" valign="top" width="25%"><a href="https://github.com/NoiZeeToyZ/SynTHBloK-Blanks"><img src="img/Blank.jpg" height="150" alt="Blanks"><br><b>Blanks</b></a><br><sub>NoiZee ToyZ blank panels, 1 to 32 HP</sub></td>
 </tr>
+<tr>
+<td align="center" valign="top" width="25%"><a href="https://github.com/NoiZeeToyZ/SynTHBloK-MTX8"><img src="img/Matrix8.jpg" height="150" alt="MTX-8"><br><b>MTX-8</b></a><br><sub>8x8 groovebox with 8 synth voices, in key, random grooves</sub></td>
+</tr>
 </table>
 
 ## SynTHBloK MTX
 
-The full MTX pack (grooveboxes for the Maschine JAM, a song composer, the RANDROYD track generator and BACKDROP) is a paid plugin. More news at [liquidnick.com](https://www.liquidnick.com).
+The rest of the MTX family (MTX FORGE, DUO and DRUM grooveboxes for the Maschine JAM, a song composer, the RANDROYD track generator and BACKDROP) is a paid plugin; MTX-8 above is free. More news at [liquidnick.com](https://www.liquidnick.com).
