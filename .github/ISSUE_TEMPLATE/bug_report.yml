@@ -1,0 +1,73 @@
+name: Bug report
+description: Something in a NoiZee ToyZ module or installer doesn't work right
+title: "[Bug] "
+labels: ["bug"]
+body:
+  - type: markdown
+    attributes:
+      value: |
+        Thanks for taking the time to report this! A few details help us fix it fast.
+  - type: dropdown
+    id: module
+    attributes:
+      label: Module
+      options:
+        - BLANKS
+        - BLOKMASTER
+        - CHARACTER DELAY
+        - DUAL FILTER
+        - EUCLID
+        - GRAIN-FORGE
+        - JAM PROBE
+        - KICK
+        - MIX FIRE
+        - MORPH FILTER
+        - MTX-1
+        - MTX-8
+        - PLAYER PLUS
+        - POLY
+        - PULSE
+        - QUAD
+        - RESONATOR
+        - SNARE-HAT
+        - STEREO PHASER
+        - A free VST3 plugin
+        - The installer
+        - Other
+    validations:
+      required: true
+  - type: input
+    id: version
+    attributes:
+      label: Module version
+      description: In Rack's module browser, or the file name you downloaded (e.g. 2.1.1)
+      placeholder: "2.1.1"
+  - type: dropdown
+    id: os
+    attributes:
+      label: Computer
+      options:
+        - Windows
+        - Mac with Apple chip (M1/M2/M3/M4...)
+        - Mac with Intel chip
+        - Linux
+    validations:
+      required: true
+  - type: input
+    id: rack
+    attributes:
+      label: VCV Rack version
+      description: Shown in Rack's title bar (e.g. 2.6.4). For a VST, the name and version of your DAW.
+      placeholder: "2.6.4"
+  - type: textarea
+    id: what
+    attributes:
+      label: What happened?
+      description: What did you do, what did you expect, and what happened instead?
+    validations:
+      required: true
+  - type: textarea
+    id: files
+    attributes:
+      label: Patch, screenshot or recording (optional)
+      description: Drag a .vcv patch, a screenshot or a short audio/video clip in here.

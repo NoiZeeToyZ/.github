@@ -1,0 +1,42 @@
+name: Idea / feature request
+description: Suggest something new for a NoiZee ToyZ module
+title: "[Idea] "
+labels: ["enhancement"]
+body:
+  - type: dropdown
+    id: module
+    attributes:
+      label: Module
+      options:
+        - BLANKS
+        - BLOKMASTER
+        - CHARACTER DELAY
+        - DUAL FILTER
+        - EUCLID
+        - GRAIN-FORGE
+        - JAM PROBE
+        - KICK
+        - MIX FIRE
+        - MORPH FILTER
+        - MTX-1
+        - MTX-8
+        - PLAYER PLUS
+        - POLY
+        - PULSE
+        - QUAD
+        - RESONATOR
+        - SNARE-HAT
+        - STEREO PHASER
+        - A free VST3 plugin
+        - The installer
+        - Other
+        - A new module
+    validations:
+      required: true
+  - type: textarea
+    id: idea
+    attributes:
+      label: Your idea
+      description: What would you like it to do, and how would you use it in a patch?
+    validations:
+      required: true
